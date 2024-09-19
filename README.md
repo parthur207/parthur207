@@ -8,5 +8,5 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-![parthur GitHub stats](https://github-readme-stats.vercel.app/api?username=parthur207&show_icons=true&theme=dracula)
+![parthur GitHub stats](https://github-readme-stats.vercel.app/api?username=parthur207&show_icons=true&theme=onedark)
 
