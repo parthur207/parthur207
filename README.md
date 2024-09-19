@@ -19,13 +19,14 @@
 
   <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   
-  
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={parthur207}&theme=blue-green
 
 - Entusiasta incansável por tecnologia e programação, movido pela paixão de transformar ideias em soluções inovadoras.
 - Em constante evolução, sempre em busca de novos desafios e aprimoramento para expandir minhas habilidades e contribuir para o futuro da tecnologia."
