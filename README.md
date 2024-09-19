@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthur207@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/paulin7338)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=parthur207&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthur207&show_icons=true&theme=dracula)
 
 ## Tecnologias de domínio:  
 
