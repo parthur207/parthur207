@@ -26,7 +26,7 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthur207)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthur207&size_weight=0.5&count_weight=0.5)
 
 - Entusiasta incansável por tecnologia e programação, movido pela paixão de transformar ideias em soluções inovadoras.
 - Em constante evolução, sempre em busca de novos desafios e aprimoramento para expandir minhas habilidades e contribuir para o futuro da tecnologia."
