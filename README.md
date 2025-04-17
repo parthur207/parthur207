@@ -29,5 +29,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthur207&layout=compact)
 
 - Entusiasta incansável por tecnologia e programação, movido pela paixão de transformar ideias em soluções inovadoras.
-- Em constante evolução, sempre em busca de novos desafios e aprimoramento para expandir minhas habilidades e contribuir para o futuro da tecnologia.
+- Em constante evolução, sempre em busca de novos desafios e aprimoramento para expandir minhas habilidades e contribuir para o futuro da tecnologia
 
